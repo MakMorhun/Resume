@@ -192,7 +192,7 @@ body {
 .list-experience__item:first-child {
   margin-top: 25px;
 }
-.list-experience__item a {
+.list-experience__item a, .list-experience__item span {
   font-weight: 500;
   color: #141414;
   text-decoration: none;
